@@ -1,0 +1,8 @@
+co\danielpineros\registrosmanagement\RegistrosmanagementApplication.class
+co\danielpineros\registrosmanagement\dao\RegistrosDAOImpl.class
+co\danielpineros\registrosmanagement\service\RegistrosServiceImpl.class
+co\danielpineros\registrosmanagement\HibernateConfig.class
+co\danielpineros\registrosmanagement\controller\RegistrosController.class
+co\danielpineros\registrosmanagement\dao\RegistrosDAO.class
+co\danielpineros\registrosmanagement\model\Registros.class
+co\danielpineros\registrosmanagement\service\RegistrosService.class

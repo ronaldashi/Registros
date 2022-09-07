@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ronal
+Build-Jdk: 17.0.3
+Implementation-Title: registrosmanagement
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: co.danielpineros
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/registrosmanagement
+Created-By: Maven Integration for Eclipse
+
